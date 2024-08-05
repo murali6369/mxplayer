@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    font-weight: bold;
+}
+.navbar{
+    display: flex;
+}
+.navbar,h2{
+    color: white;
+}
+
+
+
+ul{
+    display: flex;
+    list-style: none;
+
+}
+li{
+    display: inline;
+    font-size: 15px;
+    padding: 20px 5px 0px 30px;
+    list-style-type: none;
+    
+}
+li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.ul,i{
+    padding: 18px;
+}
+
+input[type="submit"] {
+    background-color: #07090a;
+    color: #fff;
+    height: 30px;
+    width: 180px;
+    border: 2px gold solid;
+    border-radius: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.content,img{
+    margin-top: 20px;
+    height:300px ;
+    width: 250px;
+
+}
+.img1{
+    display: flex;
+}
+h1{
+    color: #fff;
+
+}
